@@ -1,0 +1,16 @@
+{
+	"name": "raiyanfarhansameehadatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "391182d0-dedd-4b4a-b62f-124ac84fdd05",
+		"tenantId": "16c2abf8-31c1-4c0b-aa49-c032263bc381"
+	}
+}
